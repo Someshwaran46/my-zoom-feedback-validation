@@ -86,8 +86,22 @@ This project addresses:
 - **UI Framework**: Gradio  
 - **Hosting Platform**: Hugging Face Spaces
 
-You can try the app here 👉 [Hugging Face Spaces Link](https://huggingface.co/spaces/your-username/my-zoom-feedback-validation) *(update once hosted)*
-
+---
+## 📂 Repository Structure
+```bash
+Project/
+├── My_Zoom/
+│   ├── Dataset/
+│   │   ├── evaluation.xlsx
+│   │   ├── train.xlsx
+│   │   └── semantic_augmented_balanced_dataset.xlsx
+│   └── My_Zoom.ipynb
+└── Screenshots for reference/
+│   ├── Feedback is accepted.png
+│   └── Feedback is not accepted.png                
+├── README.md
+└── requirements.txt
+```
 ---
 
 ## 🔧 How to Run
